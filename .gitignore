@@ -1,0 +1,10 @@
+
+# xcode-build-server files
+buildServer.json
+.compile
+
+# Local build artifacts
+.build/
+
+# Secrets (never commit credentials)
+Secrets.xcconfig
