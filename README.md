@@ -11,6 +11,10 @@ Your music, your moments. **Loop** lets you build a personal deck of trimmed Spo
 - **Add by URI or Link** — paste a `spotify:track:` URI or any `open.spotify.com/track/` URL
 - **Bulk Management** — select and remove clips in one go
 
+## Demo
+
+[Check out the demo](https://github.com/user-attachments/assets/e09ee202-c5c9-499c-9317-87b2a73b07f3)
+
 ## Requirements
 
 - iOS 17+
